@@ -1,0 +1,7 @@
+requests>=2.31
+pandas>=2.0
+numpy>=1.24
+lxml>=4.9
+python-dateutil>=2.8
+tqdm>=4.65
+matplotlib>=3.7
